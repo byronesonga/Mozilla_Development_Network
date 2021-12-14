@@ -1,1 +1,1 @@
-The task is to markup a letter that needs to be hosted on a University intranet.The Letter is a response from a researchfellow to a prospective PhD Student concerning their application to the University. 
+The task is to markup a letter that needs to be hosted on a University intranet.The Letter is a response from a research fellow to a prospective PhD Student concerning their application to the University. 
